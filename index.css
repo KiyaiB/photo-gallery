@@ -5,7 +5,7 @@ p{
     text-align: center;
 }
 .page1{
-    background-image: url(./images/images.jpeg);
+    background-image: url(./images/bg4.jpeg);
     
 }
 
@@ -14,7 +14,7 @@ p{
     background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: black;
     height: 150px;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
@@ -25,7 +25,7 @@ p{
     background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: purple;
     font-family:cursive;
     height: 300px;
     
@@ -39,7 +39,7 @@ li{
     background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: brown;
     height: 500px;
    
 
@@ -50,7 +50,7 @@ li{
     background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: brown;
     height: 500px;
    
 
@@ -60,7 +60,7 @@ li{
     background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: brown;
     height: 500px;
    
 
@@ -70,7 +70,7 @@ li{
     background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: brown;
     height: 500px;
    
 
@@ -80,7 +80,7 @@ li{
     background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: brown;
     height: 500px;
    
 
