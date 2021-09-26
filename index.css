@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.page1{
+    background-image: url(./images/images.jpeg);
+    
+}
+
+.firstpage {
+    text-align: center;
+    background-image: url("./images/bg4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+.biography {
+    text-align: center;
+    background-image: url("./images/bg4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family:cursive;
+    height: 300px;
+    
+   
+}
+li{
+    color: black;
+}
+.potraits {
+    text-align: center;
+    background-image: url("./images/bg4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 500px;
+   
+
+}
+
+.photojournalism{
+    text-align: center;
+    background-image: url("./images/bg4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 500px;
+   
+
+}
+.fashionphotography{
+    text-align: center;
+    background-image: url("./images/bg4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 500px;
+   
+
+}
+.sportsphotography{
+    text-align: center;
+    background-image: url("./images/bg4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 500px;
+   
+
+}
+.naturePhotography{
+    text-align: center;
+    background-image: url("./images/bg4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 500px;
+   
+
+}
