@@ -6,11 +6,11 @@ PHOTO-GALLERY [26/09/2021]
 
 
 * Table of Content
-  -Author
-  -Description
-  -Setup instructions
-  -Languages used
-  -Copyright Licence
+  *Author
+  *Description
+  *Setup instructions
+  *Languages used
+  *Copyright Licence
 
 
 1. Author
