@@ -25,7 +25,8 @@ PHOTO-GALLERY [26/09/2021]
 4. Languages Used
    HTML
    CSS
-5. website link
+   
+   website link
    kiyaib.github.io/photo-gallery/
    
    
