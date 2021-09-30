@@ -26,7 +26,7 @@ PHOTO-GALLERY [26/09/2021]
    HTML
    CSS
 5. website link
-   
+   kiyaib.github.io/photo-gallery/
 7.Copyright and License
   MIT License Permission
   Copyright (c) {2021} {Babra Kiyai}
