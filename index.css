@@ -19,10 +19,10 @@ p{
 }
 .biography {
     text-align: center;
-    background-image: url("./images/pp2.jpeg");
+    background-image: url("./images/bg4.jpeg") ;
     background-repeat: no-repeat;
     background-size: cover;
-    color: black;
+    color: red;
     font-family:cursive;
     height: 300px;
     
@@ -79,6 +79,4 @@ li{
     background-size: cover;
     color: green;
     height: 500px;
-   
-
 }
