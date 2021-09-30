@@ -20,7 +20,7 @@ PHOTO-GALLERY [26/09/2021]
    This is a photography website which shows some of the photos that I have taken.
 
 3. Setup instructions
-   -Launch browser on your page search bar look for the {} on github and click on the link.
+   -Launch browser on your page search bar then look for the link with .io on github and click on the link.
 
 4. Languages Used
    HTML
