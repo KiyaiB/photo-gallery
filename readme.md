@@ -10,7 +10,8 @@ PHOTO-GALLERY [26/09/2021]
   *Description
   *Setup instructions
   *Languages used
-  *Copyright Licence
+  *website link
+  *Copyright and License
 
 
 1. Author
@@ -24,9 +25,12 @@ PHOTO-GALLERY [26/09/2021]
 4. Languages Used
    HTML
    CSS
+5. website link
+   
+7.Copyright and License
+  MIT License Permission
+  Copyright (c) {2021} {Babra Kiyai}
 
-* Copyright and License
-MIT License Permission is hereby granted, free of charge, to any person obtaining a copy of this files.
-Copyright (c) {2021} {Babra Kiyai}
+
 
 
