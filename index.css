@@ -8,7 +8,7 @@ p{
 
 .firstpage {
     text-align: center;
-    background-image: url("./images/bg4.jpeg");
+    background-color: bisque;
     background-repeat: repeat;
     background-size: cover;
     color: maroon;
@@ -20,7 +20,7 @@ p{
 .biography {
     text-align: center;
     background-image: url("./images/bg4.jpeg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     color: purple;
     font-family:cursive;
@@ -34,7 +34,7 @@ li{
 .potraits {
     text-align: center;
     background-image: url("./images/bg4.jpeg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     color: black;
     height: 500px;
@@ -45,7 +45,7 @@ li{
 .photojournalism{
     text-align: center;
     background-image: url("./images/bg4.jpeg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     color: brown;
     height: 500px;
@@ -55,7 +55,7 @@ li{
 .fashionphotography{
     text-align: center;
     background-image: url("./images/bg4.jpeg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     color: magenta;
     height: 500px;
@@ -65,7 +65,7 @@ li{
 .sportsphotography{
     text-align: center;
     background-image: url("./images/bg4.jpeg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     color: brown;
     height: 500px;
@@ -75,7 +75,7 @@ li{
 .naturePhotography{
     text-align: center;
     background-image: url("./images/bg4.jpeg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     color: green;
     height: 500px;
