@@ -9,9 +9,9 @@ p{
 .firstpage {
     text-align: center;
     background-image: url("./images/bg4.jpeg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
-    color: black;
+    color: maroon;
     height: 150px;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
@@ -36,7 +36,7 @@ li{
     background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: brown;
+    color: black;
     height: 500px;
    
 
@@ -57,7 +57,7 @@ li{
     background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: brown;
+    color: magenta;
     height: 500px;
    
 
@@ -77,7 +77,7 @@ li{
     background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: brown;
+    color: green;
     height: 500px;
    
 
