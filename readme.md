@@ -27,7 +27,7 @@ PHOTO-GALLERY [26/09/2021]
    CSS
    
    website link=
-   kiyaib.github.io/photo-gallery/
+   {kiyaib.github.io/photo-gallery/}
    
    
 Copyright and License
