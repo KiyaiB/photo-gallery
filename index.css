@@ -8,79 +8,93 @@ p{
 
 .firstpage {
     text-align: center;
-    background-color: bisque;
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
     background-size: cover;
     color: maroon;
     height: 150px;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
+    font-size: larger;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
     
 }
 .biography {
     text-align: center;
-    background-image: url("./images/bg4.jpeg") ;
     background-repeat: no-repeat;
     background-size: cover;
-    color: red;
-    font-family:cursive;
+    color: black;
     height: 300px;
-    
-   
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-size: large;
 }
 li{
     color: black;
 }
 .potraits {
     text-align: center;
-    background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     color: black;
     height: 500px;
-   
-
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-size: larger;
 }
 
 .photojournalism{
     text-align: center;
-    background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: brown;
+    color: black;
     height: 500px;
-   
-
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-size: larger;
 }
 .fashionphotography{
     text-align: center;
-    background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: magenta;
+    color: black
     height: 500px;
-   
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    font-size: larger;
 
 }
 .sportsphotography{
     text-align: center;
-    background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: brown;
+    color: black;
     height: 500px;
-   
-
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-size: larger;
 }
 .naturePhotography{
     text-align: center;
-    background-image: url("./images/bg4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: green;
+    color: black;
     height: 500px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-size: larger;
 }
 .Contents{
     text-align: center;
-    color: purple;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+body{
+    background-image:url("./images/bg4.jpeg");
 }
